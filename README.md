@@ -5,5 +5,6 @@ Favuzzi E, Deogracias R, Marques-Smith A, Maeso P, Jézéquel J, Exposito-Alonso
 Here you can find:
 1) R scripts for identifying cell type-specific genes from RNAseq data
 2) MATLAB scripts for automatic synapse analysis in Imaris
+3) Fiji scripts for automatic synapse analysis in ImageJ/Fiji (batch and non batch version)
 
 
